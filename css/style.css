@@ -120,7 +120,7 @@ h1 {
 }
 
 .home-concept-tel > a > img {
-    width: 40%;
+    width: 30%;
 }
 
 .home-concept-tel {
@@ -184,7 +184,7 @@ hr {
 }
 
 .contact-box > a > img {
-    width: 30%;
+    width: 20%;
 }
 
 .contact-box {
@@ -386,9 +386,41 @@ input {
     font-size: 1.5em;
 }
 
+.header-right-above-tel:hover {
+     opacity: 0.7;
+     color: white;
+}
+
+.header-right-above-mail:hover {
+    opacity: 0.7;
+    color: white;
+}
+
+.home-concept-tel:hover {
+    opacity: 0.7;
+    color: white;
+}
+
+.contact-box:hover {
+    opacity: 0.7;
+    color: white;
+}
+
+.service-content-botton:hover {
+    opacity: 0.7;
+    color: white;
+}
+
+.style-above:hover {
+    opacity: 0.7;
+    color:  #0F6DD9;  
+}
 
 
-
+.style-bottom:hover {
+    opacity: 0.7;
+    color:  #0F6DD9;  
+}
 
 
 
