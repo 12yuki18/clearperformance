@@ -408,10 +408,7 @@ input {
     color: white;
 }
 
-.service-content-botton:hover {
-    opacity: 0.7;
-    color: white;
-}
+
 
 .style-above:hover {
     opacity: 0.7;
@@ -422,6 +419,11 @@ input {
 .style-bottom:hover {
     opacity: 0.7;
     color:  #0F6DD9;  
+}
+
+.service-text:hover {
+    opacity: 1;
+    color:black;
 }
 
 
